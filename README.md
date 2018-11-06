@@ -141,8 +141,8 @@
    
    12: **`SPOC: Secure Payments for Outsourced Computations`**
 
-
-# **Survey**
+# **Journal**
+## **Survey**
   1: **`A survey of intrusion detection in Internet of Things`**
   
   2: **`IoT Middleware: A Survey on Issues and Enabling Technologies`**
