@@ -2,9 +2,9 @@
 ====
  # `Conference`
  ## `Top Conference`
-  1: Data-Oriented Programming: On the Expressiveness of Non-Control Data Attacks, sp, 2016
+  1: Data-Oriented Programming: On the Expressiveness of Non-Control Data Attacks, `SP`, 2016
   
-  2: C-FLAT: Control-Flow Attestation for Embedded Systems Software, ccs, 2016
+  2: C-FLAT: Control-Flow Attestation for Embedded Systems Software, CCS, 2016
   
   3: SEDA: Scalable Embedded Device Attestation, ccs, 2015
   
@@ -34,7 +34,8 @@
   
   16: FarmBeats: An IoT Platform for Data-Driven Agriculture, nsdi, 2017
   
-  17: Bringing IoT to Sports Analytics, nsdi, 2017
+  17: Bringing IoT to 
+  orts Analytics, nsdi, 2017
   
   18: Opaque: An Oblivious and Encrypted Distributed Analytics Platform, nsdi, 2017
   
@@ -62,7 +63,7 @@
   
   30: When Good Becomes Evil: Keystroke Inference with Smartwatch, ccs, 2015
   
-  31: Security Analysis of Emerging Smart Home Applications, sp, 2016
+  31: Security Analysis of Emerging Smart Home Applications, `SP`, 2016
   
   32: Heimdall: A Privacy-Respecting Implicit Preference Collection Framework, mobisys, 2017
   
@@ -70,9 +71,9 @@
   
   34: ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platforms, ndss, 2017
   
-  35: IoT Goes Nuclear: Creating a ZigBee Chain Reaction, sp, 2017
+  35: IoT Goes Nuclear: Creating a ZigBee Chain Reaction, `SP`, 2017
   
-  36：Augur: Internet-Wide Detection of Connectivity Disruptions, sp, 2017
+  36：Augur: Internet-Wide Detection of Connectivity Disruptions, `SP`, 2017
   
   37: Situational Access Control in the Internet of Things, ccs, 2018
   
@@ -84,9 +85,9 @@
   
   41: SANA: Secure and Scalable Aggregate Network Attestation, ccs, 2016
   
-  42: Protecting Bare-metal Embedded Systems with Privilege Overlays, sp, 2017
+  42: Protecting Bare-metal Embedded Systems with Privilege Overlays, `SP`, 2017
   
-  43: Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types, sp, 2018
+  43: Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types, `SP`, 2018
   
   44: Do You Hear What I Hear? Fingerprinting Smart Devices Through Embedded Acoustic Components, ccs, 2014
   
