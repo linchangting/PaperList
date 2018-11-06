@@ -1,6 +1,6 @@
 # PaperList
- # Top Conference:
-  1: Data-Oriented Programming: On the Expressiveness of Non-Control Data Attacks, SP, 2016
+ # Conference:
+  1: Data-Oriented Programming: On the Expressiveness of Non-Control Data Attacks, sp, 2016
   
   2: C-FLAT: Control-Flow Attestation for Embedded Systems Software, ccs, 2016
   
@@ -84,7 +84,8 @@
   
   42: Protecting Bare-metal Embedded Systems with Privilege Overlays, sp, 2017
   
- # Workshop of Top Conference:
+  43: Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types, sp, 2018
+
   # Workshop on Internet of Things Security and Privacy, ccs, 2017
    1: Systematically Evaluating Security and Privacy for Consumer IoT Devices
    
