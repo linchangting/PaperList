@@ -72,7 +72,7 @@
   
   35: **`IoT Goes Nuclear: Creating a ZigBee Chain Reaction`**, *SP, 2017*
   
-  36：**`Augur: Internet-Wide Detection of Connectivity Disruptions`**, *SP, 2017*
+  36: **`Augur: Internet-Wide Detection of Connectivity Disruptions`**, *SP, 2017*
   
   37: **`Situational Access Control in the Internet of Things`**, *CCS, 2018*
   
