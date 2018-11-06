@@ -86,7 +86,7 @@
   
   43: Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types, sp, 2018
 
-  # Workshop on Internet of Things Security and Privacy, ccs, 2017
+  Workshop on Internet of Things Security and Privacy, ccs, 2017
    1: Systematically Evaluating Security and Privacy for Consumer IoT Devices
    
    2: Plaintext Data Transmission in Consumer IoT Medical Devices
@@ -105,7 +105,7 @@
    
    9: Enabling Multi-user Controls in Smart Home Devices
    
-  # Workshop on Decentralized IoT Security and Standards, ndss, 2018
+  Workshop on Decentralized IoT Security and Standards, ndss, 2018
    1: SOFIE Secure Open Federation for Internet Everywhere
    
    2: CIoTA: Collaborative IoT Anomaly Detection via Blockchain
