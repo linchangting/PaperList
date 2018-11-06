@@ -48,13 +48,13 @@
   
   23: Leakage-Resilient Layout Randomization for Mobile Devices, ndss, 2016
   
-  24: Decentralized Action Integrity for Trigger-Action IoT Platforms, ndss, 2016
+  24: Decentralized Action Integrity for Trigger-Action IoT Platforms, ndss, 201
   
-  25: What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices, ndss, 2016
+  25: What You Corrupt Is Not What You Crash: Challenges in Fuzzing Embedded Devices, ndss, 2018
   
-  26: Fear and Logging in the Internet of Things, ndss, 2017
+  26: Fear and Logging in the Internet of Things, ndss, 2018
   
-  27: IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing, ndss, 2017
+  27: IOTFUZZER: Discovering Memory Corruptions in IoT Through App-based Fuzzing, ndss, 2018
   
   28: Perplexed Messengers from the Cloud: Automated Security Analysis of Push-Messaging Integrations, ccs, 2015
   
@@ -87,6 +87,16 @@
   42: Protecting Bare-metal Embedded Systems with Privilege Overlays, sp, 2017
   
   43: Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing using Different Sensor Types, sp, 2018
+  
+  44: Do You Hear What I Hear? Fingerprinting Smart Devices Through Embedded Acoustic Components, ccs, 2014
+  
+  45: Firmalice – Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware, ndss, 2015
+  
+  46: Inception: System-Wide Security Testing of Real-World Embedded Systems Software, usenix security, 2018
+  
+  47: ACES: Automatic Compartments for Embedded Systems, usenix security, 2018 
+  ....................
+
 
   ## `Workshop on Internet of Things Security and Privacy, ccs, 2017`
    1: Systematically Evaluating Security and Privacy for Consumer IoT Devices
