@@ -94,6 +94,12 @@
   
   46: **`Inception: System-Wide Security Testing of Real-World Embedded Systems Software`**, *Usenix Security, 2018*
   
+  47: **`Prio: Private, Robust, and Scalable Computation of Aggregate Statistics`**, *NSDI, 2017*
+  
+  48: **`Things, Trouble, Trust: On Building Trust in IoT Systems`**, *DAC, 2016*
+  
+  49:  **`Can IoT be Secured: Emerging Challenges in Connecting the Unconnected`**, *DAC, 2016*
+  
   .........................................................
 
 
@@ -142,6 +148,10 @@
    12: **`SPOC: Secure Payments for Outsourced Computations`**
 
 # **Journal**
+## **Journal Paper**
+1: **`Hardware-Based Trusted Computing Architectures for Isolation and Attestation`**, *TOC, 2018*
+
+  ........................................................
 ## **Survey**
   1: **`A survey of intrusion detection in Internet of Things`**
   
