@@ -98,7 +98,9 @@
   
   48: **`Things, Trouble, Trust: On Building Trust in IoT Systems`**, *DAC, 2016*
   
-  49:  **`Can IoT be Secured: Emerging Challenges in Connecting the Unconnected`**, *DAC, 2016*
+  49: **`Can IoT be Secured: Emerging Challenges in Connecting the Unconnected`**, *DAC, 2016*
+  
+  50: **`MUTE: Bringing IoT to Noise Cancellation`**, *Sigcomm, 2018*
   
   .........................................................
 
@@ -146,6 +148,24 @@
    11: **`Practical Runtime Attestation for Tiny IoT Devices`**
    
    12: **`SPOC: Secure Payments for Outsourced Computations`**
+   
+  ## ACM SIGCOMM 2018 Workshop on IoT Security and Privacy (IoT S&P)
+  
+  1: **`Combining MUD Policies with SDN for IoT Intrusion Detection`**
+  
+  2: **`Clear as MUD: Generating, Validating and Applying IoT Behaviorial Profiles`**
+  
+  3: **`Towards a Resilient Smart Home (DNP)`**
+  
+  4: **`Traversing the Quagmire that is Privacy in Your Smart-Home`**
+  
+  5: **`Web-based Attacks to Discover and Control Local IoT Devices`**
+  
+  6: **`IP-Based IoT Device Detection`**
+  
+  7: **`A Developer-Friendly Library for Smart Home IoT Privacy-Preserving Traffic Obfuscation`**
+  
+  8: **`Towards Secure, Distributed Trust Management on a Global Scale`**
 
 # **Journal**
 ## **Journal Paper**
