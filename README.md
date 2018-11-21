@@ -112,6 +112,11 @@ IoT Security Reading List
   
   54: **`Soteria: Automated IoT Safety and Security Analysis`**, *ATC, 2018*
   
+  5: **`On the Safety of IoT Device Physical Interaction Control`**, *CCS, 2018*
+  
+  
+
+  
   .........................................................
 
 
