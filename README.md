@@ -102,6 +102,14 @@
   
   50: **`MUTE: Bringing IoT to Noise Cancellation`**, *Sigcomm, 2018*
   
+  50: **`PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary`**, *NDSS, 2019*
+  
+  51: **`IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT`**, *NDSS, 2019*
+  
+  52: **`Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai`**, *NDSS, 2019*
+  
+  53: **`Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet`**, *NDSS, 2019*
+  
   .........................................................
 
 
