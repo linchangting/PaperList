@@ -114,6 +114,9 @@ IoT Security Reading List
   
   55: **`On the Safety of IoT Device Physical Interaction Control`**, *CCS, 2018*
   
+  56: **`FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware`**, *ASPLOS, 2018*
+  
+  57: **`Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks`**, *CCS, 2018*
   
 
   
