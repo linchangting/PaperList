@@ -1,4 +1,4 @@
-IoT Security Reading List
+This page includes a collection of papers we recommend reading for those interested in studying Internet of Things security and privacy.
 ====
  # **Conference**
  ## Top Conference
@@ -117,8 +117,14 @@ IoT Security Reading List
   56: **`FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware`**, *ASPLOS, 2018*
   
   57: **`Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks`**, *CCS, 2018*
+    
+  58: **`Understanding Linux Malware`**, *SP, 2018*
   
-
+  59: **`Detecting and Identifying Faulty IoT Devices in Smart Home with Context Extraction`**, *DSN, 2018*
+  
+  60: **`Smart Locks: Lessons for Securing Commodity Internet of Things Devices`**, *CCS, 2016*
+  
+  61: **`FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware`**, *ASPLOS, 2018*
   
   .........................................................
 
@@ -204,6 +210,16 @@ IoT Security Reading List
   6: **`A review of Internet of Things for smart home: Challenges and solutions`**
   
   7: **`Internet of Things: A survey on the security of IoT frameworks`**
+  
+  8: **`SoK: Security Evaluation of Home-Based IoT Deployments`**, *SP, 2019*
+  
+  9: **`Internet of Things Security Research: A Rehash of Old Ideas or New Intellectual Challenges`**, *SP Magazine, 2019*
+  
+  10: **`Program Analysis of Commodity IoT Applications for Security and Privacy: Challenges and Opportunities`**, *arXiv*
+  
+  11: **`IoT Security: An End-to-End View and Case Study`**, *arXiv*
+  
+  12: **`A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications`**, *arXiv*
   
   ........................................................
 
