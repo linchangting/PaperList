@@ -144,6 +144,11 @@ This page includes a collection of papers we recommend reading for those interes
   
   70: **`IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT`**, *NDSS, 2019*
   
+  71: **`Measurement and Analysis of Hajime, a Peer-to-peer IoT Botnet`**, *NDSS, 2019*
+  
+  72: **`Cleaning Up the Internet of Evil Things: Real-World Evidence on ISP and Consumer Efforts to Remove Mirai`**, *NDSS, 2019*
+  
+  73: **`Digital Healthcare-Associated Infection Analysis of a Major Multi-Campus Hospital System`**, *NDSS, 2019*
   
   .........................................................
 
