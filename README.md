@@ -142,6 +142,8 @@ This page includes a collection of papers we recommend reading for those interes
   
   69: **`Tap 'n Ghost: A Compilation of Novel Attack Techniques against Smartphone Touchscreens Towards Automated Safety Vetting of PLC Code in Real-World Plants`**, *SP, 2019*
   
+  70: **`IoTGuard: Dynamic Enforcement of Security and Safety Policy in Commodity IoT`**, *NDSS, 2019*
+  
   
   .........................................................
 
