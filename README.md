@@ -126,6 +126,23 @@ This page includes a collection of papers we recommend reading for those interes
   
   61: **`FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware`**, *ASPLOS, 2018*
   
+  62: **`Razzer: Finding Kernel Race Bugs through Fuzzing`**, *SP, 2019*
+  
+  63: **`Fuzzing File Systems via Two-Dimensional Input Space Exploration`**, *SP, 2019*
+ 
+  64: **`Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems`**, *SP, 2019*
+  
+  65: **`HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows`**, *SP, 2019*
+  
+  66: **`Asm2Vec: Boosting Static Representation Robustness for Binary Clone Search against Code Obfuscation and Compiler Optimization`**, *SP, 2019*
+  
+  67: **`SoK: Security Evaluation of Home-Based IoT Deployments`**, *SP, 2019*
+  
+  68: **`SoK: The Challenges, Pitfalls, and Perils of Using Hardware Performance Counters for Security`**, *SP, 2019*
+  
+  69: **`Tap 'n Ghost: A Compilation of Novel Attack Techniques against Smartphone Touchscreens Towards Automated Safety Vetting of PLC Code in Real-World Plants`**, *SP, 2019*
+  
+  
   .........................................................
 
 
